@@ -2,16 +2,15 @@
 const path = require("path");
 
 module.exports = {
-  extendMarkdown: md => {
-    console.log("Extending markdown");
-    md.use(require("markdown-it-div"));
+  chainMarkdown(config) {
+    config.plugin("imsize").use(require("markdown-it-imsize"));
   },
   title: "techsupport@ermapta.org",
   // head: [],
   // port: 8080,
   markdown: {
     typographer: true,
-    // plugins: ["markdown-it-attrs", "markdown-it-div"],
+    plugins: ["markdown-it-attrs", "markdown-it-div", "markdown-it-imsize"],
   },
   plugins: [
     // "@vuepress/register-components",
@@ -27,7 +26,7 @@ module.exports = {
         collapsable: false,
         children: [
           "get-started",
-          ["set-up-email", "1. Set up e-mail"],
+          ["set-up-email", "1. Set up email"],
           ["get-to-know-teams", "2. Get to know Teams"],
           ["save-and-share-documents", "3. Save and share docs"],
         ],

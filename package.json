@@ -1,4 +1,5 @@
 {
+  "license": "CC-BY-4.0",
   "devDependencies": {
     "@vuepress/plugin-active-header-links": "^1.0.3",
     "@vuepress/plugin-back-to-top": "^1.0.3",
@@ -8,6 +9,7 @@
     "markdown-it": "^9.1.0",
     "markdown-it-attrs": "^3.0.1",
     "markdown-it-div": "^1.1.0",
+    "markdown-it-imsize": "^2.0.1",
     "vuepress": "^1.0.3"
   }
 }
