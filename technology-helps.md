@@ -23,7 +23,7 @@ The most obvious benefit we derive from technology is data protection. Data must
 2. Overexposed information creates organizational risk.
 3. Untraceable information creates legal risk.
 
-It is incredibly easy to lose information. Printed
+It is incredibly easy to lose information. Printed information by definition resides in one place and can be destroyed by water, fire, or children.
 
 ## Benefit #2: Equal participation
 
