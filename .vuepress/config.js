@@ -3,15 +3,23 @@ const path = require("path");
 
 module.exports = {
   chainMarkdown(config) {
-    config.plugin("imsize").use(require("markdown-it-imsize"));
+    config.options
+      .typographer(true)
+      .end()
+      .plugin("attrs")
+      .use(require("markdown-it-attrs"))
+      .end()
+      .plugin("imsize")
+      .use(require("markdown-it-imsize"))
+      .end();
   },
   title: "techsupport@ermapta.org",
   // head: [],
   // port: 8080,
-  markdown: {
-    typographer: true,
-    plugins: ["markdown-it-attrs", "markdown-it-div", "markdown-it-imsize"],
-  },
+  // markdown: {
+  //   typographer: true,
+  //   plugins: ["markdown-it-attrs", "markdown-it-div", "markdown-it-imsize"],
+  // },
   plugins: [
     // "@vuepress/register-components",
     "@vuepress/search",

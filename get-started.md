@@ -17,24 +17,26 @@ Technology helps us in two primary areas:
 1. Protect data from accidental deletion or oversharing
 2. Ensure that everyone is able to participate equally
 
-For a much more thorough investigation of how technology helps, please see [Technology helps](technology-helps.md).
+For a much more thorough investigation of how technology helps, please see [Technology helps](technology-helps).
 
 ## The top 3 things you need to know
 
 In the fullness of time there are many things we'd like to share with you, but for now let's focus on three areas.
 
-[Set up email →](set-up-email.md)
+[Set up email →](set-up-email)
 
 Your email account is ready and waiting for you. You can use it on your mobile phone, your computer, or whatever device you prefer.
 
-[Get to know Teams →](get-to-know-teams.md)
+[Get to know Teams →](get-to-know-teams)
 
 Teams is more of a real-time communication tool. It lets you IM, join calls, and collaborate with others in a very rich way.
 
-[Save and share documents →](save-and-share-documents.md)
+[Save and share documents →](save-and-share-documents)
 
 You can save documents in personal or shared locations. You can also share the documents with the group of people you specify.
 
 ## The laundry list of other links...
 
-Coming soon!
+- How to [add shared mailboxes](add-shared-mailboxes) to your email client
+
+More coming soon!

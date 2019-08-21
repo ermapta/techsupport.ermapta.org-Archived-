@@ -7,6 +7,4 @@ actionText: Get Started →
 actionLink: /get-started
 ---
 
-# Welcome
-
-> All content licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+All content licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).

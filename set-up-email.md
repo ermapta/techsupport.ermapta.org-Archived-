@@ -4,6 +4,8 @@ title: Set up email
 
 # Set up email
 
+![](https://images.unsplash.com/photo-1552987614-cea548ab520a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjg2MjE3fQ&w=900&h=225&crop=top&fit=crop&fp-y=0.68)
+
 **Prerequisites:**
 
 - You will need your username and password to set up your email. If you have not received your username and password, email [techsupport@ermapta.org](mailto:techsupport@ermapta.org?subject=Credentials%20needed)
@@ -28,7 +30,7 @@ Microsoft Outlook is the recommended email client for two reasons:
 
 ### Accessing email from iOS
 
-[![Download on the App Store](https://ol.azureedge.net/eas/p2/m2/outlook-sms/localized/en-US/apple_store_badge.png)](https://go.microsoft.com/fwlink/p/?LinkId=733936)
+[![Download on the App Store](https://ol.azureedge.net/eas/p2/m2/outlook-sms/localized/en-US/apple_store_badge.png =150x)](https://go.microsoft.com/fwlink/p/?LinkId=733936)
 
 1. Install [Outlook for iOS](https://go.microsoft.com/fwlink/p/?LinkId=733936) from the iOS App Store.
 2. Tap `Add Account` and enter your email address.
@@ -40,7 +42,7 @@ Microsoft Outlook is the recommended email client for two reasons:
 
 ### Accessing email from Android
 
-[![Get it on Google Play](https://ol.azureedge.net/eas/p2/m2/outlook-sms/localized/en-US/google-play-badge.png)](https://go.microsoft.com/fwlink/p/?LinkID=733934)
+[![Get it on Google Play](https://ol.azureedge.net/eas/p2/m2/outlook-sms/localized/en-US/google-play-badge.png =150x)](https://go.microsoft.com/fwlink/p/?LinkID=733934)
 
 1. Install [Outlook for Android](https://go.microsoft.com/fwlink/p/?LinkID=733934) from the Google Play Store.
 2. Tap `Add Account` and enter your email address.
@@ -54,7 +56,7 @@ Microsoft Outlook is the recommended email client for two reasons:
 
 ### Accessing email from Windows
 
-[![Get it from Microsoft](https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png)](https://www.microsoft.com/store/apps/9wzdncrfhvqm?cid=storebadge&ocid=badge)
+[![Get it from Microsoft](https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png =150x)](https://www.microsoft.com/store/apps/9wzdncrfhvqm?cid=storebadge&ocid=badge)
 
 1. Install [Mail and Calendar](https://www.microsoft.com/store/apps/9wzdncrfhvqm?cid=storebadge&ocid=badge) from the Microsoft app store.
 2. Tap `Add Account`, then `Exchange` (our accounts are Office 365) and enter your email address.
