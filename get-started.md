@@ -4,7 +4,7 @@ title: Get started
 
 # Get started
 
-![person in starting blocks](https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjg2MjE3fQ&w=900&h=225&crop=focalpoint&fit=crop)
+![photo of person in starting blocks][hero-image]
 
 Welcome to ERMA PTA! We are _so_ glad to have you join us.
 
@@ -40,3 +40,5 @@ You can save documents in personal or shared locations. You can also share the d
 - How to [add shared mailboxes](add-shared-mailboxes) to your email client
 
 More coming soon!
+
+[hero-image]: https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjg2MjE3fQ&w=900&h=225&crop=focalpoint&fit=crop

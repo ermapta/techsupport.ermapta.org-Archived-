@@ -4,7 +4,7 @@ title: Technology helps
 
 # Technology helps
 
-![person typing on computer](https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjg2MjE3fQ&w=600&h=100&crop=top&fit=crop&fp-y=0.4)
+![photo of person typing on computer][hero-image]
 
 Technology has improved our lives in countless ways. From routine communication to medical advances, technology multiplies our ability to _do_.
 
@@ -54,3 +54,5 @@ Technology also puts everyone on an equal footing.
 Information discovery
 Information availability
 Less physical burden
+
+[hero-image]: https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjg2MjE3fQ&w=600&h=100&crop=top&fit=crop&fp-y=0.4
