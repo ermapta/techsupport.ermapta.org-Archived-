@@ -6,7 +6,7 @@ title: Get to know Teams
 
 ![photo of three old rotary pay phones][hero-image]
 
-Teams is a newer application from Microsoft that is optimized for real-time, back-and-forth communication. Email is good for communicating large blocks of thought, but it lends itself to monologuing. Teams is better at mimicking the dynamics of real human conversation.
+Teams is a newer application from Microsoft that is optimized for real-time, back-and-forth communication. Email is good for communicating large blocks of thought, but it lends itself to monologuing. Teams is better at capturing the dynamics of real human conversation.
 
 You can think of Teams as having three primary modes of operation:
 
@@ -30,7 +30,11 @@ You can use any device with a Web browser to access your email account. Simply g
 
 [![Download on the App Store](https://ol.azureedge.net/eas/p2/m2/outlook-sms/localized/en-US/apple_store_badge.png =150x)][ios-download] [![Get it on Google Play](https://ol.azureedge.net/eas/p2/m2/outlook-sms/localized/en-US/google-play-badge.png =150x)][android-download] [![Get it from Microsoft](https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png =150x)][windows-download]
 
-https://teams.microsoft.com/downloads/desktopurl?env=production&plat=osx&arch=&download=true
+::: warning
+TODO: Find image for mac download https://teams.microsoft.com/downloads/desktopurl?env=production&plat=osx&arch=&download=true
+:::
+
+## Using Teams
 
 [android-download]: https://aka.ms/androidteams
 [hero-image]: https://images.unsplash.com/uploads/1413222992504f1b734a6/1928e537?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjg2MjE3fQ&w=900&h=225&crop=top&fit=crop&fp-y=.5

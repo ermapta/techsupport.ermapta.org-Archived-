@@ -39,6 +39,20 @@ module.exports = {
           ["save-and-share-documents", "3. Save and share docs"],
         ],
       },
+      {
+        title: "Manage website",
+        collapsable: false,
+        children: [
+          ["manage-website/manage-website", "Overview"],
+          "manage-website/about-wordpress",
+          "manage-website/backup-website",
+          "manage-website/post-types",
+          "manage-website/managing-events",
+          "manage-website/managing-pages",
+          "manage-website/managing-menu",
+          "manage-website/managing-theme",
+        ],
+      },
     ],
   },
 };
