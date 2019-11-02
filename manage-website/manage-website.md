@@ -9,8 +9,8 @@ Managing content on the website is not challenging, but it does require some lea
 1. [About WordPress and how to log into it][1]
 2. [Backing up the website][2]
 3. [WordPress post types and why they are relevant][3]
-4. [Managing events on the calendar][4]
-5. [Creating and modifying new pages][5]
+4. [Creating and modifying new pages][4]
+5. [Managing events on the calendar][5]
 6. [Modifying the menu][6]
 7. [Modifying the look and feel of the website][7]
 
@@ -18,10 +18,10 @@ This content heavily links out to external documentation rather than reproducing
 
 Note: this series is only about managing the content on the website. This should be sufficient for most volunteers. For information on how the website is hosted, see <https://diy.ermapta.org>.
 
-[1]: manage-website/about-wordpress
-[2]: manage-website/backup-website
-[3]: manage-website/post-types
-[4]: manage-website/managing-events
-[5]: manage-website/managing-pages
-[6]: manage-website/managing-menu
-[7]: manage-website/managing-theme
+[1]: about-wordpress
+[2]: backup-website
+[3]: post-types
+[4]: managing-pages
+[5]: managing-events
+[6]: managing-menu
+[7]: managing-theme
